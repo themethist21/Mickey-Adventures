@@ -1,0 +1,17 @@
+C:\2DGAME\2DVideogame\2DVideogame\Game.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\Game.obj
+C:\2DGAME\2DVideogame\2DVideogame\Hitbox.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\Hitbox.obj
+C:\2DGAME\2DVideogame\2DVideogame\HUD.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\HUD.obj
+C:\2DGAME\2DVideogame\2DVideogame\InstructionsMenu.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\InstructionsMenu.obj
+C:\2DGAME\2DVideogame\2DVideogame\main.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\main.obj
+C:\2DGAME\2DVideogame\2DVideogame\MenuScene.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\MenuScene.obj
+C:\2DGAME\2DVideogame\2DVideogame\Object.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\Object.obj
+C:\2DGAME\2DVideogame\2DVideogame\Player.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\Player.obj
+C:\2DGAME\2DVideogame\2DVideogame\Scene.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\Scene.obj
+C:\2DGAME\2DVideogame\2DVideogame\Shader.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\Shader.obj
+C:\2DGAME\2DVideogame\2DVideogame\ShaderProgram.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\ShaderProgram.obj
+C:\2DGAME\2DVideogame\2DVideogame\SpiderEnemy.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\SpiderEnemy.obj
+C:\2DGAME\2DVideogame\2DVideogame\Sprite.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\Sprite.obj
+C:\2DGAME\2DVideogame\2DVideogame\TextRenderer.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\TextRenderer.obj
+C:\2DGAME\2DVideogame\2DVideogame\Texture.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\Texture.obj
+C:\2DGAME\2DVideogame\2DVideogame\TileMap.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\TileMap.obj
+C:\2DGAME\2DVideogame\2DVideogame\TreeEnemy.cpp;C:\2DGAME\2DVideogame\2DVideogame\Debug\TreeEnemy.obj

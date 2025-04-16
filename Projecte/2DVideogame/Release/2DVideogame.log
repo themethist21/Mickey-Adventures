@@ -1,0 +1,92 @@
+﻿  Game.cpp
+  Hitbox.cpp
+  HUD.cpp
+  InstructionsMenu.cpp
+  main.cpp
+  MenuScene.cpp
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\MenuScene.cpp(154,117): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\MenuScene.cpp(155,112): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\MenuScene.cpp(163,70): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\MenuScene.cpp(163,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\MenuScene.cpp(164,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Object.cpp
+  Player.cpp
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(281,39): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(281,39): warning C4244:         with
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(281,39): warning C4244:         [
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(281,39): warning C4244:             _Ty=float
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(281,39): warning C4244:         ]
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(303,39): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(303,39): warning C4244:         with
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(303,39): warning C4244:         [
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(303,39): warning C4244:             _Ty=float
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(303,39): warning C4244:         ]
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(576,44): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(576,44): warning C4244:         with
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(576,44): warning C4244:         [
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(576,44): warning C4244:             _Ty=float
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(576,44): warning C4244:         ]
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(599,44): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(599,44): warning C4244:         with
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(599,44): warning C4244:         [
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(599,44): warning C4244:             _Ty=float
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Player.cpp(599,44): warning C4244:         ]
+  Scene.cpp
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(238,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(238,31): warning C4244:         with
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(238,31): warning C4244:         [
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(238,31): warning C4244:             T=float
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(238,31): warning C4244:         ]
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(246,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(246,25): warning C4244:         with
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(246,25): warning C4244:         [
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(246,25): warning C4244:             T=float
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(246,25): warning C4244:         ]
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(253,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(253,25): warning C4244:         with
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(253,25): warning C4244:         [
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(253,25): warning C4244:             T=float
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(253,25): warning C4244:         ]
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(264,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(264,22): warning C4244:         with
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(264,22): warning C4244:         [
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(264,22): warning C4244:             T=float
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Scene.cpp(264,22): warning C4244:         ]
+  Shader.cpp
+  ShaderProgram.cpp
+  SpiderEnemy.cpp
+  Sprite.cpp
+  TextRenderer.cpp
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\TextRenderer.cpp(85,33): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  Texture.cpp
+  TileMap.cpp
+  TreeEnemy.cpp
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\2DVideogame\Sprite.cpp(98): warning C4723: potential divide by 0
+  All 1070 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_helper.obj)' or at ''; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(SOIL.obj)' or at ''; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+  2DVideogame.vcxproj -> C:\Users\sergi\Desktop\UNI\VJ\2DGame\2DVideogame\Release\2DVideogame.exe

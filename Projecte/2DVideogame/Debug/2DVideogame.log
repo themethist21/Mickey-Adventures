@@ -1,0 +1,23 @@
+﻿  Player.cpp
+c:\2dgame\2dvideogame\2dvideogame\player.cpp(281): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+c:\2dgame\2dvideogame\2dvideogame\player.cpp(303): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+c:\2dgame\2dvideogame\2dvideogame\player.cpp(576): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+c:\2dgame\2dvideogame\2dvideogame\player.cpp(599): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+  Generando código...
+  Compilando...
+  TreeEnemy.cpp
+  SpiderEnemy.cpp
+  Scene.cpp
+c:\2dgame\2dvideogame\2dvideogame\scene.cpp(238): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\2dgame\2dvideogame\2dvideogame\scene.cpp(246): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\2dgame\2dvideogame\2dvideogame\scene.cpp(253): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\2dgame\2dvideogame\2dvideogame\scene.cpp(264): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  Omitiendo... (no se detectaron cambios relevantes)
+  main.cpp
+  TileMap.cpp
+  MenuScene.cpp
+  InstructionsMenu.cpp
+  Game.cpp
+  2DVideogame.vcxproj -> C:\2DGAME\2DVideogame\Debug\2DVideogame.exe
+  2DVideogame.vcxproj -> C:\2DGAME\2DVideogame\Debug\2DVideogame.pdb (Full PDB)
